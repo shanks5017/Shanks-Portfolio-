@@ -105,7 +105,7 @@ const InternshipsSection = () => {
 
                 // Map internship titles to their external proof/certificate links
                 const links: Record<string, string> = {
-                  'Data Analyst Intern': 'https://drive.google.com/file/d/1_YoO0y2SAr1X07lm-3uVS870TVbp6_5i/view?usp=drivesdk'
+                  'Data Analyst Intern': 'https://drive.google.com/file/d/1_YoO0y2SAr1X07lm-3uVS870TVbp6_5i/view?usp=drivesdk',
                   'Graphic Design Intern': 'https://drive.google.com/file/d/1WrXE9DpE2tvKNBw1k43jszffEapg_E-H/view?usp=drivesdk',
                   'Full-Stack Developer Intern': 'https://drive.google.com/file/d/17YE9127HRKBorcP-_7OnAp_Fe4-RA-D8/view?usp=sharing',
                   'Business Development Associate': 'https://drive.google.com/file/d/1M9TpoUW3o06bPQmfQ_D_z3dPe6bViFPp/view?usp=sharing',
